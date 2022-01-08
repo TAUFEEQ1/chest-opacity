@@ -1,0 +1,1 @@
+c:/Users/Taufeeq/projects/deepl-env/Scripts/activate.bat
