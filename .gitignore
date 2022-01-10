@@ -3,3 +3,4 @@ data/
 **/notebooks/.ipynb_checkpoints/
 **/notebooks/lenet-95/
 **/notebooks/logs
+**/notebooks/binarizer
